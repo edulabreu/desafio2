@@ -52,4 +52,4 @@ https://www.saucedemo.com/
 
 ```bash
 pip install -r requirements.txt
-python desafio1.py
+python desafio2.py
