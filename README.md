@@ -1,4 +1,4 @@
-# 🧪 Desafio 2 — Automação E2E com Saucedemo
+# 🧪 Desafio 2 — Automação E2E ( Saucedemo )
 
 Este projeto automatiza um fluxo completo de e-commerce utilizando Selenium WebDriver em Python.
 
